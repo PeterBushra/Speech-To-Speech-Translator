@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>cil-voice-over-record.png</file>
+    <file>Models/1.jpeg</file>
+    <file>Models/2.jpeg</file>
+    <file>Models/3.jpeg</file>
+    <file>Models/4.jpeg</file>
+    <file>Models/model_end.png</file>
+    <file>Models/0.jpeg</file>
+  </qresource>
+</RCC>
